@@ -241,8 +241,8 @@ DevOps
 * [x] Build RESTful APIs
 * [x] Study Software Architecture
 * [x] Work with Docker
-* [ ] Become a professional ASP.NET Core Backend Developer
-* [ ] Build and deploy production-ready applications
+* [x] Become a professional ASP.NET Core Backend Developer
+* [x] Build and deploy production-ready applications
 * [ ] Deepen my knowledge of System Design
 * [ ] Build larger real-world products
 
