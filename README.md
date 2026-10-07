@@ -1,11 +1,3 @@
-<!-- ===================================================== -->
-
-<!--                    AHMED KHALED                       -->
-
-<!--              GitHub Profile README                   -->
-
-<!-- ===================================================== -->
-
 <div align="center">
 
 # 👋 Hey, I'm Ahmed Khaled
@@ -16,13 +8,13 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ahmed-khaled.online/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ahmed-khaled-6b86042ab">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_EMAIL">
+<a href="mailto:ahmed.khaled2005.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -58,20 +50,20 @@ Alongside development, I have a strong background in **Graphic Design and Visual
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   💻 BACKEND DEVELOPMENT                                    │
-│   └── ASP.NET Core • REST APIs • EF Core • SQL Server      │
-│                                                             │
-│   🏗️ SOFTWARE ARCHITECTURE                                  │
-│   └── Clean Architecture • Onion Architecture              │
-│       SOLID • Design Patterns • Specification Pattern       │
-│                                                             │
-│   🎨 DESIGN & CREATIVE                                      │
-│   └── Graphic Design • Branding • Visual Identity • UI/UX  │
-│                                                             │
-│   🚀 BUILDING PRODUCTS                                      │
-│   └── From idea → architecture → development → deployment  │
-│                                                             │
+│                                                             
+│   💻 BACKEND DEVELOPMENT                                    
+│   └── ASP.NET Core • REST APIs • EF Core • SQL Server      
+│                                                             
+│   🏗️ SOFTWARE ARCHITECTURE                                  
+│   └── Clean Architecture • Onion Architecture              
+│       SOLID • Design Patterns • Specification Pattern       
+│                                                             
+│   🎨 DESIGN & CREATIVE                                      
+│   └── Graphic Design • Branding • Visual Identity • UI/UX  
+│                                                             
+│   🚀 BUILDING PRODUCTS                                      
+│   └── From idea → architecture → development → deployment  
+│                                                             
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -144,7 +136,7 @@ Digital Products
 Better User Experience
 ```
 
-**Creative Skills**
+### Creative Skills
 
 * 🎨 Graphic Design
 * 🪄 Brand Identity
@@ -184,8 +176,8 @@ A full-stack e-commerce platform designed for shops selling **electrical and hom
 * Reviews
 * Notifications
 * Shipping management
-* Admin dashboard
 * Statistics & analytics
+* Admin dashboard
 * Product image management
 
 ### Frontend
@@ -251,7 +243,7 @@ DevOps
 * [x] Work with Docker
 * [ ] Become a professional ASP.NET Core Backend Developer
 * [ ] Build and deploy production-ready applications
-* [ ] Deepen my knowledge of system design
+* [ ] Deepen my knowledge of System Design
 * [ ] Build larger real-world products
 
 ---
@@ -309,16 +301,16 @@ I'm always interested in:
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ahmed-khaled.online/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-111111?style=for-the-badge" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ahmed-khaled-6b86042ab">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+<a href="mailto:ahmed.khaled2005.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
